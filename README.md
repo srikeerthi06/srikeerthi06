@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Srikeerthi Mandadi
 
 <p align="center">
-  <img src="./assets/profile-banner.png" width="100%" alt="Srikeerthi coding banner"/>
+  <img src="./Neon%20Night%20Developer%20Profile.png" width="100%" alt="Srikeerthi coding banner"/>
 </p>
 
 <h3 align="center">
